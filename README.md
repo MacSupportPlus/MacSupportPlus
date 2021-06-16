@@ -17,12 +17,11 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 
 
-![Profile views](https://gpvc.arturio.dev/https://github.com/MacSupportPlus)  
+
 
 ![MacSupportPlus GitHub stats](https://github-readme-stats.vercel.app/api?username=macsupportplus&theme=dark&show_icons=true)
 
 
-- 🔭 I’m currently working on this page. 
 
 
 
