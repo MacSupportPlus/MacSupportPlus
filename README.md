@@ -5,8 +5,8 @@
 I'm Jason originally from Chattanooga TN, and I do full stack developement as a software developer for apps and websites. I am a veteran of the United States Navy , and I have recently embarked on this journey as a software developer. You can check out my portfolio at https://supportplusmac.com/.
 
 
-- 🔭 I’m currently working on Graduating from @Digitalcrafts 
-- 🌱 I’m currently learning Express, React, Node.js 
+- 🔭 Just graduated @Digitalcrafts in July 2021
+- 🌱 I’m currently mastering Express, React, Node.js 
 - 📫 How to reach me: jasonmcelvain2@gmail.com 
 ## Skills 
 
